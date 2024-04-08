@@ -1,10 +1,10 @@
 # Jittor 草图生成风景比赛 baseline
 ![主要结果](https://github.com/befallenStar/ConditionalGAN-befallenStar/blob/master/result.png)
 ## 简介
-本项目包含了第四届计图人工智能挑战赛 - 热身赛的代码实现。本项目的特点是：采用了 XX 方法对 YY 处理，取得了 ZZ 的效果。
+本项目包含了第四届计图人工智能挑战赛 - 热身赛的代码实现。
 
 ## 安装
-本项目可在 1 张 3060 上运行，训练时间约为 X 小时。
+本项目可在 1 张 3060 上运行，训练时间约为 1 小时。
 
 #### 运行环境
 - Windows 11
