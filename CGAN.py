@@ -197,7 +197,7 @@ def main():
     generator.load('generator_last.pkl')
     discriminator.load('discriminator_last.pkl')
 
-    number = '856540856163'
+    number = '20147432009997'
     n_row = len(number)
     z = jt.array(np.random.normal(0, 1, (n_row, opt.latent_dim))).float32().stop_grad()
     labels = jt.array(np.array([int(number[num]) for num in range(n_row)])).float32().stop_grad()
